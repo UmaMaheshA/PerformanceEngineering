@@ -1,0 +1,13 @@
+Learn SQL before optimisation & performance Tuning
+Learn Programing before tuning & performance optimisation
+Learn GIT before CICD
+Learn Data-Structures & Algorithms
+Learn Operating System before monitoring & Analysis
+Learn Web technologies before scripting & executing performance tests
+Learn Cloud before understanding the applications
+Learn technologies before understanding of testing architectures
+Learn performance Testing activities before working on tools.
+Learn application full-stack flow before optimising the performance. 
+Learn Monolith, containerisation, microservices before k8s.
+Learn from other projects related to performance issues, identifications and optimisations.
+
